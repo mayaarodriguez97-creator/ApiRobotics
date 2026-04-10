@@ -1,0 +1,5 @@
+{
+  "name": "API ROBOTICS Operational Hub",
+  "description": "Internal operational dashboard for managing smart pollination IoT hives, field operators, and agricultural contracts.",
+  "requestFramePermissions": []
+}
